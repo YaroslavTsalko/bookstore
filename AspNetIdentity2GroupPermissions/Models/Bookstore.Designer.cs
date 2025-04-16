@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\Administrator\Desktop\AspNetIdentity2GroupPermissions-master\AspNetIdentity2GroupPermissions\Models\Bookstore.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\yaroslav_tsalko\Projects\test\Bookstore\AspNetIdentity2GroupPermissions\Models\Bookstore.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
